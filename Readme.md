@@ -1,5 +1,5 @@
 # Sobre mim:
-Sou aluno de informática 2 no ifmg de Sabará Minas Gerais!
+Olá Mundo! Eu sou Felipe Moreira Rocha,sou aluno de informática 2 no ifmg de Sabará Minas Gerais!
 
 # Autor
 
