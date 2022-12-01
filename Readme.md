@@ -1,5 +1,5 @@
 # :v: Sobre mim:
-Olá Mundo! Eu sou Felipe Moreira Rocha,sou aluno de informática 2 no ifmg de Sabará Minas Gerais! :wine_glass:
+Olá Mundo! Eu sou Felipe Moreira Rocha, sou aluno de informática 2 no ifmg de Sabará Minas Gerais! :wine_glass:
 ![Imagem foto](https://i.ytimg.com/vi/6BJ02bUx4es/hqdefault.jpg)<br>
 # :chart_with_upwards_trend: Descrição do projeto:
 Esse foi minha primeira página em html desenvolvida durante uma atividade de web!
